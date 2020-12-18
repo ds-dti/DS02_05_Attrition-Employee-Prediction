@@ -7,6 +7,7 @@ import joblib
 from PIL import Image
 from sklearn.ensemble import RandomForestClassifier
 
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 #Dictionary for getting value from form webpage
