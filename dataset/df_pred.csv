@@ -1,2 +1,0 @@
-,Age,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
-0,0.0,0,0.0,0,0.0,0,0,0,1,0.0,0,0.0,0,0,0,0.0,0.0,0.0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
