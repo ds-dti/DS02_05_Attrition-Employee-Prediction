@@ -11,6 +11,9 @@ Berikut adalah anggota dalam project ini:
 - Nanda Sabila
 - Usu Gunawan
 
+Link Youtube 
+https://youtu.be/kJ9kaPrbbEQ
+
 # Project Overview
 Turn-over karyawan merupakan masalah yang krusial bagi perusahaan. Biaya untuk mengganti seorang karyawan seringkali cukup besar. Sebuah studi oleh Center for American Progress menemukan bahwa perusahaan biasanya membayar sekitar seperlima dari gaji karyawan untuk menggantikan karyawan tersebut, dan biaya dapat meningkat secara signifikan jika eksekutif atau karyawan dengan bayaran tertinggi akan diganti. Hal ini disebabkan oleh banyaknya waktu yang dihabiskan untuk mewawancarai,mencari penggantinya, dan hilangnya produktivitas selama beberapa bulan sementara karyawan baru terbiasa dengan peran baru tersebut. Belum lagi dengan biaya pengembangan SDM yang harus dikeluarkan oleh perusahaan untuk karyawan baru.
 
